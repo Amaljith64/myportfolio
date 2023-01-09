@@ -443,13 +443,13 @@ img {
   background-color: var(--first-color);
 }
 .skills__html {
-  width: 95%;
+  width: 85%;
 }
 .skills__css {
-  width: 84%;
+  width: 80%;
 }
 .skills__javascript {
-  width: 80%;
+  width: 90%;
 }
 .skills__react {
   width: 76%;
